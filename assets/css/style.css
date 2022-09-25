@@ -1,0 +1,21 @@
+.navbar {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card {
+    float: left;
+    margin: 10px;
+}
+
+.container {
+    text-align: center;
+}
+
+body {
+    padding: 10px;
+}
+
+.card-group {
+    margin-bottom: 10px;
+}
